@@ -25,9 +25,9 @@
   },
 
   "playlists": {
-    "primary": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/refs/heads/main/channels%201.m3u",
+    "primary": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/main/channels.m3u",
     
-    "backup": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/refs/heads/main/channels%201%20backup.m3u"
+    "backup": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/main/backup.m3u"
   },
 
   "ads": {
