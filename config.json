@@ -26,7 +26,6 @@
 
   "playlists": {
     "primary": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/main/channels.m3u",
-    
     "backup": "https://raw.githubusercontent.com/Deezy1info2/exo-tv-data/main/backup.m3u"
   },
 
@@ -50,16 +49,18 @@
     "accent_color": "#00e676",
     "show_logo": true,
     "show_channel_logos": true
-    "splash": {
-  "duration_ms": 2000,
-  "background_loading": true,
-  "animation": "fade_zoom"
-},
+  },
 
-"loading": {
-  "show_text_steps": false,
-  "background_fetch": true,
-  "cache_first": true
+  "splash": {
+    "duration_ms": 2000,
+    "background_loading": true,
+    "animation": "fade_zoom"
+  },
+
+  "loading": {
+    "show_text_steps": false,
+    "background_fetch": true,
+    "cache_first": true
   },
 
   "player": {
@@ -67,16 +68,9 @@
     "show_controls": true,
     "enable_pip": true,
     "retry_on_error": true,
-    "buffer_time_ms": 5000
-    "player": {
-  "auto_play": true,
-  "show_controls": true,
-  "enable_pip": true,
-  "retry_on_error": true,
-  "buffer_time_ms": 5000,
-
-  "show_buffering_text": false,
-  "controls_style": "minimal"
+    "buffer_time_ms": 5000,
+    "show_buffering_text": false,
+    "controls_style": "minimal"
   },
 
   "network": {
